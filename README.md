@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorne</h1>
 <h3 align="center">A developer from the UK.</h3>
 
-- 🔭 I’m currently working on [Apollo](https://github.com/lornebookerr/Apollo)
+- 🔭 I’m currently working on [Portal](https://github.com/lornebookerr/portal)
 
-- 🌱 I’m currently learning **JS and the Discord.JS framework**
+- 🌱 I’m currently learning **Go and the Flask framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lornebookerr](https://github.com/lornebookerr)
 
