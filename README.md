@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lorne</h1>
 <h3 align="center">A developer from the UK.</h3>
 
-- 🔭 I’m currently working on [Portal](https://github.com/lornebookerr/portal) and [Apollo](https://github.com/lornebookerr/Apollo)
+- 🔭 I’m currently working on **cool stuff!**
 
-- 🌱 I’m currently learning **Go and the Flask framework**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lornebookerr](https://github.com/lornebookerr)
 
-- 💬 Ask me about **Python, SQL, Discord.PY**
+- 💬 Ask me about **Python, SQL, Discord.PY, Discord.JS**
 
 - 📫 How to reach me **lornebookr@gmail.com**
 
@@ -23,7 +23,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lornebookerr&show_icons=true&count_private=true&theme=blue-green" align="center" /></div>  
+
+<br/>  
+<div align="center">
+<p><a href="https://github.com/lornebookerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lornebookerr&theme=blue-green&count_private=true" alt="Top Langs"></a></p></div>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lornebookerr&show_icons=true&locale=en&layout=compact" alt="lornebookerr" /></p>
 
